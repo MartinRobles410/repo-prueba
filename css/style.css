@@ -13,3 +13,19 @@ h1{
 body{
     background-color: black;
 }
+
+header{
+    height: 300px;
+    background-color: orange;
+
+}
+
+
+nav{
+    height: 100px;
+    background-color: blue;
+}
+
+main{
+    height: 400px;
+}
